@@ -40,4 +40,3 @@ To configure the webhook:
 
 👉 [webhook-repo](https://github.com/SahdevPrajapati18/webhook-repo)
 
-hi
